@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "name": "iPhone 6 Plus",
+      "price": "300",
+      "status": true,
+      "id": 1
+    },
+    {
+      "name": "Samsung",
+      "price": "700",
+      "status": "true",
+      "id": 2
+    },
+    {
+      "name": "HTC One Pro",
+      "price": "500",
+      "status": true,
+      "id": 3
+    },
+    {
+      "name": "iPhone X ",
+      "price": "300",
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "Nokia X6",
+      "price": "650",
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "LG Pro One",
+      "price": "450",
+      "status": true,
+      "id": 7
+    },
+    {
+      "name": "Nokia X5",
+      "price": "650",
+      "id": 8
+    },
+    {
+      "name": "Sony Expria",
+      "price": "300",
+      "status": "false",
+      "id": 9
+    }
+  ]
+}
